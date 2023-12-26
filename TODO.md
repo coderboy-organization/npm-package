@@ -104,4 +104,8 @@ npm login
 
 Then just press enter to open with browser to login. If is it successfully login then your will see like this message `Logged in on https://registry.npmjs.org/.`
 
-#### Step 3:
+#### Step 3: let publish our package
+
+```bash
+npm publish
+```
