@@ -1,7 +1,7 @@
 {
-  "name": "sabbir-npm-package",
+  "name": "sabbir-npm",
   "version": "1.0.0",
-  "description": "Sabbir NPM Package",
+  "description": "Sabbir NPM",
   "main": "lib/index.js",
   "categories": [
     "Education",

@@ -4,7 +4,7 @@
 
 ```json
 {
-  "name": "npm-package",
+  "name": "sabbir-npm",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -83,7 +83,7 @@ npm link
 #### Step 2: Then go to your testing directory and run this command to install
 
 ```bash
-npm link sabbir-npm-package
+npm link sabbir-npm
 ```
 
 ### Alright now publish our npm package
@@ -95,3 +95,13 @@ Publish your npm package to `npmjs` then follow these step
 ```bash
 https://www.npmjs.com/login
 ```
+
+#### Step 2: Come back your terminal and run
+
+```bash
+npm login
+```
+
+Then just press enter to open with browser to login. If is it successfully login then your will see like this message `Logged in on https://registry.npmjs.org/.`
+
+#### Step 3:
