@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "declaration": true, // this will create a .d.ts file based on main file
+    "outDir": "lib",
+    "strict": true
+  }
+}
