@@ -1,0 +1,21 @@
+{
+  "name": "npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "categories": [
+    "Education",
+    "Other"
+  ],
+  "keywords": [
+    "sabbir",
+    "npm-package"
+  ],
+  "author": "Sabbir",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "xo": "^0.56.0"
+  }
+}
