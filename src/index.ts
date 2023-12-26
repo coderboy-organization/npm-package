@@ -1,1 +1,1 @@
-console.log('fuck me');
+export { Package } from "./package";
